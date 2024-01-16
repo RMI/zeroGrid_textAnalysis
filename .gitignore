@@ -153,3 +153,5 @@ cython_debug/
 
 corporate_commitments_v2.xlsx
 corporate_commitments_v2.xlsx
+*.png
+keyword_output.xlsx
